@@ -24,3 +24,4 @@ Ini merupakan template fastify dengan prisma.
 ## Installation
 
 Silakan jalankan `npm install` dan segera lakukan migration `npx prisma migrate dev --name init`
+ubah file **.env_sample** menjadi **.env**
